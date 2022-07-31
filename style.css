@@ -100,3 +100,9 @@ button{
     opacity: 50%;
     
   }
+  #email:valid , #password:valid ,#confirm:valid , #number:valid , #lname:valid ,#fname:valid{
+    border-color: rgb(77, 134, 2);
+}
+#email:invalid , #password:invalid ,#confirm:invalid , #number:invalid{
+    border-color: rgb(143, 5, 5);
+}
