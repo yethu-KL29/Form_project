@@ -106,3 +106,11 @@ button{
 #email:invalid , #password:invalid ,#confirm:invalid , #number:invalid{
     border-color: rgb(143, 5, 5);
 }
+.submit{
+    font-family: 'Courier New', Courier, monospace;
+    padding: 5px;
+    font-size: 15px;
+    background-color: antiquewhite;
+    color: brown;
+    font-weight: 2000;
+}
